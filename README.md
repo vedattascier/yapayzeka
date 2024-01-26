@@ -10,7 +10,7 @@
 
 <h1>Yapay Zeka Sohbet Botu</h1>
 
-<img src="link-to-your-image" alt="Yapay Zeka">
+
 
 <h2>Genel Bakış</h2>
 
