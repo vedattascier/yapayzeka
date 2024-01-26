@@ -45,12 +45,6 @@
 
 <hr>
 
-<p>Notlar:</p>
-<ul>
-  <li>README dosyasını ve resim bağlantısını projenize özelleştirmeyi unutmayın.</li>
-  <li>Kullanıcı adınızı girmeyi unutmayın. Boş bırakırsanız varsayılan olarak "kullanıcı" adı kullanılır.</li>
-  <li>API anahtarınızı sağlamak için <a href="https://platform.openai.com/api-keys">OpenAI Platform</a> adresini ziyaret edin.</li>
-</ul>
 
 </body>
 </html>
