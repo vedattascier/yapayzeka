@@ -1,0 +1,5 @@
+requests==2.26.0
+pyfiglet==0.8.post1
+openai==0.27.0
+pyopenssl==22.0.0
+certifi==2021.10.8
