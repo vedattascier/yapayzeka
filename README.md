@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>Yapay Zeka Sohbet Botu</h1>
+<h1>Yapay Zeka </h1>
 
 
 
