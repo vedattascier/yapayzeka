@@ -21,8 +21,7 @@
 <ol>
   <li><strong>Depoyu Klonlayın:</strong></li>
   <pre><code>git clone https://github.com/vedattascier/yapayzeka.git
-  
-    cd yapayzeka</code></pre>
+  cd yapayzeka</code></pre>
 
   <li><strong>Bağımlılıkları Yükleyin:</strong></li>
   <pre><code>pip install -r requirements.txt</code></pre>
